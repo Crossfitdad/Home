@@ -1,1 +1,3 @@
 # Home
+
+I have created a number of customized programs for processing Eyetrack datafiles as well as for analyzing UMass style DA1 files. These programs are all open source and have been created using  perl. While these programs have been tested (by myself and others in the UCSD Rayner eye-tracking lab), I cannot guarantee their accuracy or that they are 'bug' free for all types of Eyetrack data files. Therefore, use of these programs is at your own risk. Please report bug or errors to tslattery@bournemouth.ac.uk and I will do my best to make corrections in a timely manner. A brief description of the programs and their use can be found on GitHub here.
